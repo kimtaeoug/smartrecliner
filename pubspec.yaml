@@ -1,0 +1,51 @@
+name: smartrecliner_flutter
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  #permission
+  permission_handler: ^6.1.3
+  #provider
+  provider: ^5.0.0
+  #sharedPreference
+  shared_preferences: 2.0.5
+
+  #flutter_blue(ble)
+  flutter_blue: ^0.8.0
+  #switch
+  flutter_switch: ^0.3.1
+  intl: ^0.17.0
+  #retrofit
+  retrofit: ^2.0.0
+  #dio
+  dio: ^4.0.0
+  json_annotation: ^4.0.1
+  #progress indicator
+  percent_indicator: ^3.0.1
+  #pattern lock
+  pattern_lock: ^2.0.0
+  #responsive ui
+  flutter_screenutil: ^5.0.0+2
+  #chart
+  fl_chart: ^0.36.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  retrofit_generator: ^2.0.0
+  build_runner: ^2.0.3
+  json_serializable: ^4.1.2
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+
