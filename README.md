@@ -1,4 +1,7 @@
-# <center>JakomoProject</center>  
+<h1 align="center">SmartRecliner Project</h1>  
+
+<div align="center">
+ 
 ![Stack](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Stack](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Stack](https://img.shields.io/badge/apple-000000?style=for-the-badge&logo=IOS&logoColor=white)
@@ -7,53 +10,61 @@
 ![Stack](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![Stack](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Stack](https://img.shields.io/badge/bluetooth-0082FC?style=for-the-badge&logo=BLE&logoColor=white)
+ 
+</div>
+
 <table>
    <tr>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./1.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./2.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./3.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./4.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./5.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./6.png">
-      </td>
-      <td>
-         <img width="200px" src="./7.png">
       </td>      
    </tr>
    <tr>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
+         <img width="200px" src="./7.png">
+      </td>      
+      <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./8.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./9.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./10.png">
       </td>
       <td>
+         <a href="https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link">
          <img width="200px" src="./11.png">
-      </td>
-      <td>
-         <img width="200px" src="./12.png">
-      </td>
-      <td>
-         <img width="200px" src="./13.png">
       </td>
     </tr>	
 </table>
 
-#### 해당 앱은 각 Store에서 내려가 동영상으로 대체합니다. 👉🏻[앱 동영상](https://drive.google.com/file/d/1ruBQovASZY0D_ppkiltXThmqzcCsqXss/view?usp=drive_link)
+#### _해당 앱은 각 Store에서 내려가 동영상으로 대체합니다._ 👉🏻[앱 동영상](https://drive.google.com/file/d/1XkPu5-FzIulQEAY-mL7eNyhquiBI5qEj/view?usp=drive_link)
 
 [1.프로젝트 소개](#😀-프로젝트-소개)    
 [2.프로젝트내 담당 업무](#🧑‍💻-프로젝트내-담당-업무)  
