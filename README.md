@@ -78,7 +78,7 @@
 > Emmahc : 서비스 설계 및 개발, 배포, 팀 리딩  
 > 생산기술연구원 : 리클라이너 설계 Support   
 > Jakomo : 리클라이너 제조 및 설계  
-> 리메인 : 기획 및 디자인    
+>  : 기획 및 디자인    
 
 ### Application 구조
 <details><summary>ApplicationTree</summary>
